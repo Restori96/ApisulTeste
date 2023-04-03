@@ -1,0 +1,17 @@
+E:\workspace\apisul\bin\Debug\net7.0\apisul.exe
+E:\workspace\apisul\bin\Debug\net7.0\apisul.deps.json
+E:\workspace\apisul\bin\Debug\net7.0\apisul.runtimeconfig.json
+E:\workspace\apisul\bin\Debug\net7.0\apisul.dll
+E:\workspace\apisul\bin\Debug\net7.0\apisul.pdb
+E:\workspace\apisul\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\workspace\apisul\obj\Debug\net7.0\apisul.csproj.AssemblyReference.cache
+E:\workspace\apisul\obj\Debug\net7.0\apisul.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\apisul\obj\Debug\net7.0\apisul.AssemblyInfoInputs.cache
+E:\workspace\apisul\obj\Debug\net7.0\apisul.AssemblyInfo.cs
+E:\workspace\apisul\obj\Debug\net7.0\apisul.csproj.CoreCompileInputs.cache
+E:\workspace\apisul\obj\Debug\net7.0\apisul.csproj.CopyComplete
+E:\workspace\apisul\obj\Debug\net7.0\apisul.dll
+E:\workspace\apisul\obj\Debug\net7.0\refint\apisul.dll
+E:\workspace\apisul\obj\Debug\net7.0\apisul.pdb
+E:\workspace\apisul\obj\Debug\net7.0\apisul.genruntimeconfig.cache
+E:\workspace\apisul\obj\Debug\net7.0\ref\apisul.dll
